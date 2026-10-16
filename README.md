@@ -1,22 +1,22 @@
- Data Analytics Project 4
+# Data Analytics Project 4
 
- Overview
+## Overview
 This project analyzes e-commerce sales and order data using Power BI.
 
- Dataset
+## Dataset
 The dataset contains order details, products, prices, payment methods, order statuses, and referral sources.
 
- Visualizations
+## Visualizations
 - Total Sales by Product
 - Sales Trend Over Time
 - Order Distribution by Status
 - Order Count by Payment Method
 - Order Count by Referral Source
 
-Tools Used
+## Tools Used
 - Microsoft Excel
 - Microsoft Power BI Desktop
 - GitHub
 
- Objective
+## Objective
 To visualize sales and order data and identify useful business insights through charts and dashboards.
